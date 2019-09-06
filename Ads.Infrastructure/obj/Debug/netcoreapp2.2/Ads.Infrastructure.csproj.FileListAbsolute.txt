@@ -1,0 +1,40 @@
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Infrastructure.deps.json
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Infrastructure.dll
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Application.dll
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.DataAccess.dll
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Application.pdb
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.DataAccess.pdb
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.csprojAssemblyReference.cache
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.AssemblyInfo.cs
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.csproj.CopyComplete
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Infrastructure.pdb
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.dll
+C:\Users\BoksanD\source\repos\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.pdb
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Application.dll
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.DataAccess.dll
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Application.pdb
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.DataAccess.pdb
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.AssemblyInfo.cs
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.csproj.CopyComplete
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.dll
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\obj\Debug\netcoreapp2.2\Ads.Infrastructure.pdb
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Infrastructure.deps.json
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Infrastructure.dll
+C:\Users\Lazar\Desktop\asp lab\Ads\Ads.Infrastructure\bin\Debug\netcoreapp2.2\Ads.Infrastructure.pdb

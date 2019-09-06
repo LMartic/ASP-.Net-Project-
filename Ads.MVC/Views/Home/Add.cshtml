@@ -1,0 +1,26 @@
+﻿@model Ads.Application.Dto.CreateAdDto
+@{
+    ViewData["Title"] = "Add";
+}
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+
+<form asp-action="Add">
+    <div class="form-group">
+        <label class="control-label">Category</label>
+        <select class="form-control" id="CategoryId" name="CategoryId" asp-items="@ViewBag.Categories">
+            <option value="0">Please Select</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Subject">Subject</label>
+        <input class="form-control" asp-for="Subject" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input class="form-control" asp-for="Description" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" class="form-control" value="Save" />
+    </div>
+</form>

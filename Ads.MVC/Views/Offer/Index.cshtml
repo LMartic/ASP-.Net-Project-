@@ -1,0 +1,44 @@
+﻿@model Ads.Application.Dto.OfferDto
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>My Offer</h1>
+<hr />
+@if (Model != null)
+{
+    <div class="card">
+        <div class="card-header">
+            <h3>Offer: #@Model.Id</h3>
+        </div>
+        <div class="card-body">
+            <div class="card-text">@Model.AdSubject</div>
+            <div class="card-text">@Model.Amount</div>
+        </div>
+        <div class="card-footer">
+            <div class="card-text"><a asp-route-id="@Model.Id" asp-action="Delete" asp-controller="Offer">Delete</a></div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="AdId" value="@ViewBag.AdId" />
+                <div class="form-group">
+                    <label asp-for="Amount" class="control-label"></label>
+                    <input asp-for="Amount" class="form-control" />
+                    <span asp-validation-for="Amount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+}
+
+
